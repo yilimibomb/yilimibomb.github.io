@@ -1,18 +1,19 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
+title:      产品设计/测试自查表
+subtitle:   
+date:       2019-03-09
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/pexels-photo-1650035.jpeg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+    - 产品
+    - 测试
+    - 自查
+    
 ---
-# 前言
+![图片](img/pexels-photo-1650035.jpeg)
+<!-- # 前言
 
 >在[上篇文章](http://qiubaiying.github.io/2016/12/26/ReactiveCocoa-基础/)中介绍了**ReactiveCocoa**的基础知识,接下来我们来深入介绍**ReactiveCocoa**及其在**MVVM**中的用法。
 
@@ -1516,3 +1517,4 @@ end
 ```
 
 >最后附上GitHub：<https://github.com/qiubaiying/ReactiveCocoa_Demo>
+ -->
