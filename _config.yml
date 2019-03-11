@@ -1,7 +1,7 @@
 ﻿# Site settings
 title: MY Blog
 SEOTitle: yilimibomb的博客 | MY Blog
-header-img: img/pexels-photo-615060.jpeg
+header-img: img/post-bg-desk.jpeg
 # email: happylife360@gmail.com
 description: "Every failure is leading towards success."
 keyword: "MY, MY Blog, yilimibomb的博客"
@@ -19,7 +19,7 @@ sidebar: true                           # whether or not using Sidebar.
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     
+zhanku_username:  chengxunxun.zcool.com.cn   
 github_username:    
 facebook_username:  
 jianshu_username:   
